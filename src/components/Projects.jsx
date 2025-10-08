@@ -87,7 +87,7 @@ const projects = [
     name: "Inventory Management System",
     description:
       "Created an inventory management system for tracking sales, stock updates, and reporting low inventory to management, integrated with Power BI dashboards.",
-    image: "/assets/inventory.png",
+    image: "https://images.unsplash.com/photo-1724709162875-fe100dd0e04b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aW52ZW50b3J5JTIwbWFuYWdlbWVudHxlbnwwfHwwfHx8MA%3D%3D",
   },
   {
     name: "Automated BI Dashboards",
